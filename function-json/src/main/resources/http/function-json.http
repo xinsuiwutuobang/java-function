@@ -43,3 +43,7 @@ Content-Type: application/json
   "id": 1,
   "date": "2022-05-20"
 }
+
+### 时间参数转Date类型
+POST http://114.251.181.133:30898/test/CodeManageMain/codeDefinition/v1/queryList
+Content-Type: application/json
