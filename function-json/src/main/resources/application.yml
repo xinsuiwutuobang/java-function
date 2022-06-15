@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: function-json
+  #前端显示统一格式日期,时间戳统一转换为指定格式，时区修改为东八区
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+
+server:
+  port: 9002

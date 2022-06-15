@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: function-email
+  mail:
+    host: smtp.sina.com
+    port: 465
+    protocol: smtps
+    username: yangfei969@sina.com
+    password: e92397c851dd2657
+server:
+  port: 9000
+
+#日志
+logging:
+  level:
+    com.yangfei: debug
