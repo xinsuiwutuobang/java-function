@@ -1,0 +1,10 @@
+server:
+  port: 8009
+
+executor:
+  corePoolSize: 3
+  maxPoolSize: 5
+  queueCapacity: 5
+  keepAliveSeconds: 60
+  threadNamePrefix: imoc-excutor-
+
