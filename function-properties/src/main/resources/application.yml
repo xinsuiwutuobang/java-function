@@ -1,0 +1,9 @@
+server:
+  port: 9001
+
+mail:
+  username: yangfei
+  password: 123456
+  host: 127.0.0.1
+  auth: true
+  command: $cd\r\r
