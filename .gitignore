@@ -28,5 +28,12 @@ HELP.md
 ### VS Code ###
 .vscode/
 .idea/
-.idea/**
+**/.idea/**
+**/.mvnw/**
+**/mvnw**
+**/.mvn/**
 .idea/compiler.xml
+.idea/compiler.xml
+.idea/compiler.xml
+**/target/**
+.DS_Store
